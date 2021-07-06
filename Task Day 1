@@ -1,0 +1,30 @@
+IMEI	    Model	              Manufacturer	    MFG	      Price	    Distributor ID		                                                   	
+1001	    Iphone 12 mini	    Apple	            2021	    100000	  D101	                                      	
+1002	    Galaxy Note 12	    Samsung	          2018	    45000	    D102		                                      
+1003	    10i	                Mi	              2020	    12000	    D103		                                                      
+1004	    Iphone 11 Max Pro	  Apple	            2020	    65000	    D101		                                      
+1005	    Galaxy note 10	    Samsung	          2019	    30000	    D101						
+1006	    Galaxy note 11	    Samsung	          2019	    35000	    D103						
+1007	    Note 10 Pro	        Mi	              2021	    20000	    D102						
+1008	    X3	                POCO	             2020	    18000	    D101						
+											
+	
+
+
+
+DistributorID	      Dname	            Address	      Mobile number 		
+D101	              Mobile world	      Pune	        7890		
+D102	              Phone Galaxy	      Indore	      8970		
+D103	              The mobile store	  Gwalior	      8888		
+					
+					
+Customer ID	    CustName	  Address	    Mobile number
+C101	            Akash	     Indore	      1324	
+C102	            Raj	       Mumbai       2341	
+C103	            Dinesh	   Pune	        4321	
+C104	            Nikhil	   Bangalore	  1234	     
+					
+Sales id	      Sales Date	       IMEI	      Price	      Customer ID	
+S101	            Jun-20	        A101	      45000	      C101	
+S102	            Jul-21	        A102	      100000	     C104	
+S103	            Aug-20	        B103	      65000	       C101	
